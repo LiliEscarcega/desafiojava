@@ -7,5 +7,5 @@ package mx.com.sintelti.desafios.oporx;
  * www.sintelti.mx
  */
 public interface Solucion {
-    void convertir(String entrada);
+    String convertir(String entrada);
 }
